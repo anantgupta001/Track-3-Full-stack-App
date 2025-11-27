@@ -9,8 +9,18 @@ Explore the deployed application here:
 ---
 
 ## Screenshots & Demo 📸
+<img width="1919" height="1009" alt="Screenshot 2025-11-27 213224" src="https://github.com/user-attachments/assets/4b6fc7df-bc8b-4dbb-96f0-e48a658cb6d5" />
+<img width="1919" height="1022" alt="Screenshot 2025-11-27 213123" src="https://github.com/user-attachments/assets/bb8379c3-ee6d-4f19-afba-bed1671d73b1" />
+<img width="1919" height="1017" alt="Screenshot 2025-11-27 213153" src="https://github.com/user-attachments/assets/a7231ff4-85d9-49b2-9a5e-d1c2a0d5adb4" />
+<img width="1919" height="1020" alt="Screenshot 2025-11-27 213159" src="https://github.com/user-attachments/assets/6cac5b3c-0338-4552-8ba1-3c016424b661" />
+<img width="1917" height="1018" alt="Screenshot 2025-11-27 213218" src="https://github.com/user-attachments/assets/4d31a3d9-396f-4628-b235-b4f5d5fa30cb" />
+<img width="1919" height="1015" alt="Screenshot 2025-11-27 213209" src="https://github.com/user-attachments/assets/799904eb-d274-4536-87f2-f1ad42bbf3c0" />
+<img width="1913" height="1014" alt="Screenshot 2025-11-27 213205" src="https://github.com/user-attachments/assets/f3b15b0c-878d-4011-bcf2-e675cd3554db" />
 
-*(Please add screenshots or a short screen recording of the application in action here. You can upload images to your GitHub repository and link them.)*
+
+
+
+
 
 ---
 
