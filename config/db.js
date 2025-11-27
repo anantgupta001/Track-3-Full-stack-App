@@ -1,7 +1,7 @@
 import { Sequelize } from "sequelize";
 
 const sequelize = new Sequelize(
-  process.env.DATABASE_URL || "sql12809655",   // database name or connection string
+  process.env.DATABASE_NAME || "sql12809655",   // database name
   process.env.DATABASE_USERNAME || "sql12809655",               // username
   process.env.DATABASE_PASSWORD || "hjqYDqa2XI",           // password
   {
