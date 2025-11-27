@@ -4,6 +4,7 @@ import axios from 'axios';
 import { Container, TextField, Button, Typography, Box } from '@mui/material';
 
 const Login = () => {
+    console.log("Login component rendered"); // Added for debugging
     const [username, setUsername] = useState('');
     const [password, setPassword] = useState('');
     const navigate = useNavigate();

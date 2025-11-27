@@ -12,7 +12,7 @@ function EmployeeList() {
   const fetchEmployees = async () => {
     try {
       const token = localStorage.getItem('token');
-      const response = await axios.get('http://localhost:5000/api/employees', {
+      const response = await axios.get(`${process.env.REACT_APP_API_URL}/api/employees`, {
         headers: {
           Authorization: `Bearer ${token}`,
         },
@@ -30,7 +30,7 @@ function EmployeeList() {
   const handleDelete = async (id) => {
     try {
       const token = localStorage.getItem('token');
-      await axios.delete(`http://localhost:5000/api/employees/${id}`, {
+      await axios.delete(`${process.env.REACT_APP_API_URL}/api/employees/${id}`, {
         headers: {
           Authorization: `Bearer ${token}`,
         },
